@@ -1471,6 +1471,11 @@
             "https://beta-rpc.mainnet.computecoin.com"
        ]
     },
+    "5552":{
+        "rpcs":[
+            "https://sio-dataseed.xsirox.com"
+       ]
+    },
     "10086": {
         "rpcs": [
             "http://geth.free.idcfengye.com"
